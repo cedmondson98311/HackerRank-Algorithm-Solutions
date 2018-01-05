@@ -22,7 +22,7 @@ Output Format
 
 For each command of type print, print the list on a new line.
 
-Sample Input
+Sample Input:
 
 12
 insert 0 5
@@ -37,11 +37,16 @@ print
 pop
 reverse
 print
-Sample Output
+
+Sample Output:
 
 [6, 5, 10]
 [1, 5, 9, 10]
 [9, 5, 1]
+"""
+
+"""
+Solution:
 """
 
 if __name__ == '__main__':
